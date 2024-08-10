@@ -1,3 +1,3 @@
 # spring-boot-war-example
 
-Adding test
+Adding test commit
